@@ -1,0 +1,21 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html,body{
+  height: 100%;
+  width: 100%;  
+  color: white;
+}
+.nav{
+  display: flex;
+  background-color: lightseagreen;
+  align-items: center;
+  justify-content: space-between;
+  padding: 14px 20px;
+}
+.nav2{
+  display: flex;
+  gap: 30px;
+}
